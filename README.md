@@ -2,44 +2,70 @@
 
 This repository is a **read-only mirror** of the document:
 
-**Interpretive Reference Libraries (IRLs)**
+Interpretive Reference Libraries (IRLs)
+
+---
+
+## Description
 
 IRLs is a **non-authoritative, non-operational, interpretive reference document**.
-It provides structured prompts and lenses to support human interpretation of reasoning, claims, and justifications.
 
-This repository does **not** contain:
+It provides structured prompts and interpretive lenses to support human evaluation of:
+- reasoning
+- claims
+- justifications
+
+It is designed to increase interpretive clarity, not to direct behavior.
+
+---
+
+## Scope and Limits
+
+This repository and document do **not** contain:
 - code
 - software
-- enforcement logic
+- enforcement mechanisms
 - runtime components
 - implementation guidance
 
-IRLs does **not** implement, extend, amend, or reopen any prior framework.
-It does not certify alignment, guarantee safety, or prevent harm.
+IRLs does **not**:
+- implement any system
+- extend or modify any prior framework
+- reopen any closed work
+- certify alignment or compliance
+- guarantee safety or prevent harm
 
-All judgment and responsibility remain with human readers.
+All interpretation and responsibility remain with human readers.
+
+---
+
+## Integrity
+
+SHA-256 (PDF):
+42c033342bd3318d6dead14f23f8527b2298ad6eae7ba077b8b6bcfe821104e6
 
 ---
 
 ## Canonical Copies
 
-The authoritative, frozen copies of IRLs are hosted at:
+The authoritative, frozen copies of this document are hosted at:
 
-- **Internet Archive:**  
-  https://archive.org/details/interpretive-reference-libraries-irls
+Internet Archive:
+https://archive.org/details/interpretive-reference-libraries-irls
 
-- **Zenodo (DOI record):**  
-  https://zenodo.org/records/18450590
-
-This GitHub repository exists solely for **mirroring and discoverability**.
+Zenodo (DOI record):
+https://zenodo.org/records/18450590
 
 ---
 
-## Status
+## Repository Status
 
-- **Document state:** Final and frozen  
-- **Updates:** None planned  
-- **Derivative works:** Not authorized as successors or upgrades
+- Read-only
+- Non-authoritative
+- Non-operational
+- Mirror only
 
-If this repository is forked or mirrored, it must retain this read-only, non-authoritative framing.
+This repository exists solely for **preservation and discoverability**.
+
+
 
